@@ -1,16 +1,27 @@
-### Hello world 👋
+## Hello world 👋
 
-<!--
-**kateile/kateile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sylvanus Kateile, a licensed Pharmacist and Self-taught Programmer from Tanzania.
 
-Here are some ideas to get you started:
+I have experience of more than 5 years in programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I like writing:
+
+- Golang
+- Typescript (Backend and little frontend)
+- Dart (Flutter)
+- Kotlin (Android)
+
+#### I also write some
+
+- PHP
+- Javascript
+- Java
+
+#### More
+
+- 🔭 I’m currently working on building [mwanana](https://mwanana.com) a brand-new payments platform.
+- 🌱 I’m currently learning blockchain technology.
+- 💬 Ask me about medications or programming.
+- 📫 How to reach me: s@kateile.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a full-time Pharmacist and `if(getPatients().length == 0){iCodeAtWork();}`
