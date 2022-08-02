@@ -4,7 +4,7 @@ I am Sylvanus Kateile, a licensed Pharmacist and Self-taught Programmer from Tan
 
 I have experience of more than 5 years in programming.
 
-#### I like writing:
+#### I'm in love with writing:
 
 - Golang
 - Typescript (Backend and little frontend)
