@@ -19,7 +19,7 @@ I have experience of more than 5 years in programming.
 
 #### More
 
-- 🔭 I’m currently working on building [mwanana](https://mwanana.com) a brand-new payments platform.
+- 🔭 I’m currently building a brand-new payments platform.
 - 🌱 I’m currently learning blockchain technology.
 - 💬 Ask me about medications or programming.
 - 📫 How to reach me: s@kateile.com
