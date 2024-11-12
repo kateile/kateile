@@ -2,7 +2,7 @@
 
 I am Sylvanus Kateile, a licensed Pharmacist and Self-taught Programmer from Tanzania.
 
-I have experience of more than 5 years in programming.
+I have experience of more than 7 years in programming.
 
 #### I'm in love with writing:
 
@@ -19,7 +19,7 @@ I have experience of more than 5 years in programming.
 
 #### More
 
-- 🔭 I’m currently building a brand-new payments platform.
+- 🔭 I’m currently playing with open source.
 - 🌱 I’m currently learning blockchain technology.
 - 💬 Ask me about medications or programming.
 - 📫 How to reach me: s@kateile.com
